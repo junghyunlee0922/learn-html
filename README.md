@@ -15,11 +15,11 @@ git branch -a
 ## 리모트에서 특정 브랜치 가져오기
 
 ```sh
-git checkout -t [브랜치이름]
+git checkout -t ssam
 ```
 
 ## 리모트에서 특정 브랜치의 업데이트 된 내용을 로컬로 가져오기
 
 ```sh
-git pull origin [브랜치이름]
+git pull origin ssam
 ```
